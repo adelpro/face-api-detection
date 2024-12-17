@@ -477,7 +477,3 @@ setInterval(async () => {
 
  }, 10);
 ```
-
-### **Full complete source code**
-
-%[https://github.com/adelpro/face-api-detection]
